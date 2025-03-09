@@ -30,16 +30,17 @@ tucaoUrl: https://pingshanzhuangxiu.github.io
 # 必填字段 title: '文本' url: '链接'
 # 可选字段 target: '_blank' 新页面打开 
 menu:
-  - title: 首页
+  - title: 调查赚钱网首页
     url: /
+  - title: 调查赚钱网站大全
+    url: /pages/about.html
   - title: 网赚文章归类
     url: /pages/categories.html
   - title: 搜索
     url: /pages/search.html
   - title: 友链
     url: /pages/links.html
-  - title: 调查赚钱网站大全
-    url: /pages/about.html
+
 
 # 点击页面文字冒出特效,不需要请设置为false
 extClickEffect: false
