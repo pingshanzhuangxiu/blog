@@ -1,19 +1,14 @@
 ---
 layout: mypost
-title: 关于我
+title: 调查网站合集大全-只推荐真是可靠的调查兼职赚钱网
 ---
 
-> Hello 陌生人，欢迎访问 TMaize Blog
-
-该博客托管于 GitHub Page，国内解析到腾讯云对象存储，以保证国内外的访问速度，留言页面使用腾讯的“吐个槽”
-
-主题是自己写的，见[tmaize-blog](https://github.com/TMaize/tmaize-blog)，喜欢的话可以给个小星星。另外欢迎添加友链，在[留言板](chat.html)留言即可
+> [第一调查网](https://pingshanzhuangxiu.github.io/posts/2025/03/09/%E7%AC%AC%E4%B8%80%E8%B0%83%E6%9F%A5%E7%BD%91%E6%B3%A8%E5%86%8C%E8%B5%9A%E9%92%B1%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B.html)
+> 
 
 ## 相关技能
 
-全栈开发，第一份工作主要使用 Java（现在快忘了），使用过一段时间 Golang，目前在做前端 JavaScript、Node.js，主要是 Vue 技术栈。熟悉数据库，Docker，运维相关技术
 
-如有远程工作的机会欢迎联系我 😄
 
 ## 联系我
 
