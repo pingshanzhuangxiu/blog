@@ -30,7 +30,7 @@ tucaoUrl: https://pingshanzhuangxiu.github.io
 # 必填字段 title: '文本' url: '链接'
 # 可选字段 target: '_blank' 新页面打开 
 menu:
-  - title: 调查赚钱网首页
+  - title: 首页
     url: /
   - title: 调查赚钱网站大全
     url: /pages/about.html
